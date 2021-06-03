@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament shewing that all His Majesties, the Queens, and the princes honours, mannors, lands, tenements, revenues, and profits whatsoever within the said realme of England and dominion of Wales, port and towne of Barwicke shall be seized upon and received by such persons hereafter nominated and appointed to be imployed for the good of His Majesty and the common wealth : and likewise that all such officers which shall not yield obedience to this ordinance of Parliament shall stand sequestred from their severall offices respectively snd from receiving or enjoying any profits or benefit of or by the same.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22166</idno><idno type="EEBO-CITATION">12085469</idno>
+  <idno type="VID">196887</idno>
+  <idno type="EEBO-PROQUEST">2240953591</idno>
+  
+            <idno type="STC">Wing E2082</idno>
+            <idno type="OCLC">12085469</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22166)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196887)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 239:E67, no 37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament shewing that all His Majesties, the Queens, and the princes honours, mannors, lands, tenements, revenues, and profits whatsoever within the said realme of England and dominion of Wales, port and towne of Barwicke shall be seized upon and received by such persons hereafter nominated and appointed to be imployed for the good of His Majesty and the common wealth : and likewise that all such officers which shall not yield obedience to this ordinance of Parliament shall stand sequestred from their severall offices respectively snd from receiving or enjoying any profits or benefit of or by the same.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Wright ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Septemb. 23, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196887:1"/>
+            <p> AN ORDINANCE OF THE LORDS and COMMONS Assembled in Parliament.</p>
+            <p>SHEWING That all His Majesties, the Queenes, and Princes <hi>Honours, Mannors, Lands, Tenements, Rents, Revenues,</hi> and <hi>Profits</hi> whatsoever, within the said Realme of <hi>England</hi> and Dominion of <hi>Wales,</hi> Port and Towne of <hi>Barwicke,</hi> shall be seized upon, and received by such persons hereafter nominated and appointed, to be imployed for the good of His Majesty and the Common-wealth.</p>
+            <p>And likewise, that all such Officers which shall not yeeld obedience to this Ordinance of Parliament, shall stand sequestred from their severall Offices respe<g ref="char:EOLhyphen"/>ctively, and from receiving or enjoying any profits or benefit of or by the same.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Jovis 21. Septemb. 1643.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>ORdered by the Lords and Commons assembled in Parliament, that this Ordinance shall be forthwith printed and published.</hi>
+                        </p>
+                        <p>J. Brown Cler. Parliamentorum.</p>
+                        <closer>
+                           <signed>
+                              <hi>LONDON,</hi> Printed for <hi>Iohn Wright</hi> in the Old-baily, Septemb. 23. 1643.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="ordinance">
+            <pb n="2" facs="tcp:196887:2"/>
+            <head>
+               <hi>An Ordinance for the due and orderly receiving and collecting of the <hi>Kings, Queenes,</hi> and <hi>Princes</hi> Revenue, and the arrerages thereof.</hi>
+            </head>
+            <opener>
+               <dateline>
+                  <date>21 <hi>Septemb.</hi> 1643.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Lords and Commons assembled in Parlia<g ref="char:EOLhyphen"/>ment taking into their serious considerations the many heavy pressures and most grievous cala<g ref="char:EOLhyphen"/>mities which now lie upon this Kingdome by this bloody and unnaturall warre raised against the Parliament, and that notwithstanding all their faithfull and constant endeavours for the preserving of His Majesty and the whole Kingdome from the most cruell and end<g ref="char:EOLhyphen"/>lesse designes of Papists, Delinquents, and ill-affected persons; yet their counsels and practises are still so prevalent with His Majesty, and the hearts of many people so misled and beguiled by their false pretenses and specious insinuations, that nothing can be expected but the extirpation and finall subversion of our Religion, Laws, and Liberties, unlesse God of his infinite mercy prevent it, and incline His Majesties heart to the faithfull ad<g ref="char:EOLhyphen"/>vice of his great Councell of Parliament, which hath ever been and is (under God) the chiefe support of his Royall Crown and dignity, and the security of all that we have or can enjoy, and for that it is found by woefull experience that divers ill-affected per<g ref="char:EOLhyphen"/>sons, by pretenee of His Majesties authority, have and doe still daily seize upon divers and sundry great sums of money, raised
+<pb n="3" facs="tcp:196887:2"/> and collected in divers parts of this Kingdome by Acts and Or<g ref="char:EOLhyphen"/>dinances of Parliament, for the reliefe of the poore distressed protestants in <hi>Ireland,</hi> the suppressing and subdueing of those most barbarous and bloody Rebels, and for defence of this Kingdome and Parliament, and doe divert and employ the same, and likewise His Majesties Revenue, and all other moneys of the well affected persons whatsoever by rapine or violence they can lay hands on; to the fomenting, nourishing and maintaining of these miserable distractions, and unnaturall warre: and the Lords and Commons omitting no opportunity, nor neglecting any fitting meanes which they conceived might divert the said warre here, so violently pressed forwards by Papists, delin<g ref="char:EOLhyphen"/>quents, ill affected persons, and the rebels of <hi>Ireland,</hi> did former<g ref="char:EOLhyphen"/>ly ordaine that the Officers of the Receipt, Court of Wards, and Liveries, Receivers, and others, should not repaire unto <hi>Ox<g ref="char:EOLhyphen"/>ford,</hi> but attend their service here in the usuall places: yet in contempt of the same and other Ordinances, some Officers are gone to <hi>Oxford,</hi> divers convey sundry sums of money thither, and others neglect their service, to the great prejudice and dis<g ref="char:EOLhyphen"/>service of the Commonwealth: and to the intent that His Maje<g ref="char:EOLhyphen"/>sties Revenue might no more be misapplyed, and that the same may be imployed for the good of His Majesty and the Common<g ref="char:EOLhyphen"/>wealth, The Lords and Commons therfore do ordaine, and be it ordained by the said Lords &amp; Commons, that all His Maiesties, the Queens, and Princes Revenue, of what nature or kind soe<g ref="char:EOLhyphen"/>ver, certaine or casuall within the view or survey of the Court of Exchequer, Court of Wards and Liveries, Dutchy of <hi>Lancaster,</hi> Dutchy of <hi>Cornwall▪</hi> or in any other Court or jurisdiction what<g ref="char:EOLhyphen"/>soever within this Realm of <hi>England,</hi> Dominion of <hi>Wales,</hi> and Port &amp; Town of <hi>Berwicke,</hi> together with all the arreares therof, &amp; all other debts and sums of money whatsoever any way due to His Maiesty, the Queene, or Prince, shall be seized upon and received by the persons hereafter named, or such others as at any time hereafter shall be appointed, and nominated by the
+<pb n="4" facs="tcp:196887:3"/> Committee for the Revenue, which said persons or receivers in each severall County or Counties, Cities or places for which they are or shall be appointed respectively are hereby authorised and required by themselves, their Agents and deputies, to take and seize into their hands and custodies all and every His Ma<g ref="char:EOLhyphen"/>jesties, the Queenes, and Princes Honours, Mannors, Lands, Tenements, and Hereditaments, Rents, arrerages of Rents, Revenues, and profits whatsoever, within the said realme of <hi>England,</hi> Dominion of <hi>Wales,</hi> and Port and Towne of <hi>Barwicke,</hi> and to let, set, and demise the same, or any part there<g ref="char:EOLhyphen"/>of, from yeere to yeere; And shall have power to call before them all Stewards, Auditors, Receivers, Bailiffes, Collectors, or any other Officer or Officers whatsoever, and to send for or take any books of accounts, rentals, coppies of Court-roll, or any other writings, touching the premisses and thereby and by all other waies and meanes which to them shall seeme meet and necessary to informe themselves of the said revenues, debts, and arreares thereof, and of all things concerning the same, and to appoint any subordinate Officer or Officers and Ministers under them for the bettter expediting of this service which said subordinate Officers and Ministers are hereby autho<g ref="char:EOLhyphen"/>rized, and enioyned to performe and execute all and every their commands respectively, in and concerning the premi<g ref="char:EOLhyphen"/>ses; and shall have such allowances for their paines and char<g ref="char:EOLhyphen"/>ges in that behalfe, as the respective persons or receivers ap<g ref="char:EOLhyphen"/>pointed for the severall, Counties, Cities or places shall thinke fit, the same being approved of by the Committee for the reve<g ref="char:EOLhyphen"/>nue: And that all such Stewards, Auditors, Receivers, Bay<g ref="char:EOLhyphen"/>liffes, Collectors, or any other Officer or Officers whatsoever which have not submitted themselves to the commands and di<g ref="char:EOLhyphen"/>rections of any former Ordinance of Parliament, or to the Committee for the revenue; and likewise all other such Officers, which shall not yeeld obedience to this Ordinance of Parliament or to the Committee for the revenue shall
+<pb n="5" facs="tcp:196887:3"/> stand sequestred from their severall Offices respectively, and from the receiving and enioying any profit or benefit of or for the same: And the Committée for the Revenue or any five shall have power, and are hereby authorized to nominate and ap<g ref="char:EOLhyphen"/>point other méet, fit, and trusty persons to supply and execute those Offices and Places which are or shall be sequestred as a<g ref="char:EOLhyphen"/>foresaid; And the said Persons or Receivers nominated or to be nominated, as aforesaid, their Agents and Deputies within their severall limits respectively, shall have power, and are here<g ref="char:EOLhyphen"/>by authorized and required to enter into all and every His Ma<g ref="char:EOLhyphen"/>jesties, the Queenes and Princes Honours, Manours, Lands, Tenements, and Hereditaments, Courts and Offices, and to receive such Rents, arrerages of Rents, Herriots, Issues, Pro<g ref="char:EOLhyphen"/>fits, summes of Money, Debts, and other duties, as are or shall be due and payable for or out of the same: And the Fee<g ref="char:EOLhyphen"/>farmers, Farmers, and the Tenants thereof, Officers and all others are required to pay the same accordingly, to the said Persons or Receivers, or to such other Officers or Receivers as shall be thereunto appointed by vertue and according to the direction of this Ordinance, and to no other person whatso<g ref="char:EOLhyphen"/>ever. And the said Fee-farmers, Farmers, Tenants, and all others which shall pay any Rent, summe of Money or other thing, according to this Ordinance, shall bee protected and sa<g ref="char:EOLhyphen"/>ved harmlesse from any forfeiture, penaltie, or damage which he or they may incurre by not payment of his or their said Rent, summe of money or other thing, according to his or their Grant, Lease, Copy or other agreement, by the power and autho<g ref="char:EOLhyphen"/>rity of both Houses of Parliament. And if any Sheriffe, Recei<g ref="char:EOLhyphen"/>ver, Collector, or any other Officer of any court whatsoever, shall refuse to pay the moneys from time to time remaining in their hands, any Fee farmer, Farmer, or Tenant, shall refuse to pay his or their rents, or any others shall refuse to pay their particular debts to the hands of the said Persons or Re<g ref="char:EOLhyphen"/>ceivers in the severall and respective Counties, Cities, and
+<pb n="6" facs="tcp:196887:4"/> Places, at such times as the same shall be come due &amp; payable, or to the Receiver Generall hereby appointed, then the said Persons or Receivexs for the severall Counties, Cities, and places, shall have power to distraine for the same, and to take all other advantages for non payment thereof, as His Majestie, the Queene and Prince, their Officers or ministers might have done, and they shall have power to sue for and recover any debt, summe of money, or other duty owing to his Maje<g ref="char:EOLhyphen"/>stie, the Queene or Prince by any person whatsoever, and also to give discharges and acquittances for any Rent, summe of money, debts, duty, or other thing, which they shall receive by vertue of this Ordinance, and shall be accomptable from time to time for the same, and for all such other things as shall be had, received, or taken by them, their Agents or deputies, and for all their receipts and payments, and other Acts for or in respect of the premises to the Committee for the Revenue, or to such as they shall appoint; and shall pay in from time to time all such summes of money as they or any of them shall receive by vertue of this Ordinance, unto <hi>Thomas Faulconbridge</hi> Es<g ref="char:EOLhyphen"/>quire at <hi>Westminster</hi> (who is hereby constituted and appoint<g ref="char:EOLhyphen"/>ed Receiver-Generall of all such summes of money as shall be received or raised by vertue of this Ordinance) and shall be from time to time subiect to the further orders and directions of the Committee for the Revenue; And the Acquittances of the said Receiver Generall, and of the said Persons or Recei<g ref="char:EOLhyphen"/>vers in the severall Counties, Cities and places, Courts and Offices respectively, shall bee as good and sufficient discharge for the summes of money therein contained, as if the same were paid into the receipt of the Exchequer, or into any other usuall Court or place. And the Barons of the Erchequer, and all other Officers and ministers of the same, and other Courts and places respectively, are hereby required and authorised to give full allowances thereof, and thereupon to make forth <hi>quietus ests</hi> and other discharges according to the course and
+<pb n="7" facs="tcp:196887:4"/> custome of the severall Courts and places. And the said Per<g ref="char:EOLhyphen"/>sons or Receivers, their Agents and Deputies, shall have pow<g ref="char:EOLhyphen"/>er to call to their aid and assistance the trained Bands, Volun<g ref="char:EOLhyphen"/>tiers, or other Forces, and any other Officer or minister of Iu<g ref="char:EOLhyphen"/>stice, of or within their severall Counties, Cities or places respe<g ref="char:EOLhyphen"/>ctively, or any other person or persons dwelling in or neere the place, to compell obedience to this Ordinance, where any re<g ref="char:EOLhyphen"/>sistance shall be made, or as oft as need shall require, and shall have power to punish such person or persons as they shall finde refractory, negligent, or faulty in the said service by fine and imprisonment, such fine not exceeding the summe of twenty pounds, or to certifie their names to the Committee for the Re<g ref="char:EOLhyphen"/>venue, who shall have power to send for them or any of them, and commit them to such prisons and places as they shall thinke fit, untill they shall conforme themselves to this present Ordi<g ref="char:EOLhyphen"/>nance of Parliament. And the said trained Bands, Volunti<g ref="char:EOLhyphen"/>ers and other Forces, their Commanders and Officers, and also the severall Constables, Headboroughs, and other Of<g ref="char:EOLhyphen"/>ficers and persons within their severall and respective limits, are hereby required and enioyned to be aiding and assisting to the said persons or Receivers, their Agents and Deputies, as oft as they shall be thereunto required.</p>
+            <p>And it is further ordained and declared by the said Lords and Commons, That all and every the said Revenues, Rents, Profits, Debts, and summes of money whatsoever, shall be imployed to and for such uses and services as are or shall be di<g ref="char:EOLhyphen"/>rected by the Committee for the Revenue.</p>
+            <p>And it is likewise further ordained, That all and every the said persons or Receivers, Receiver-Generall, Auditors, and other Officers and Ministers imployed in this service by the Committee for the Revenue, or any five of them, shall have such allowances for their necessary charges and paines in and about the premises, as the said Committee shall thinke fit; and that as well they as all others who shall be imployed in the said
+<pb n="8" facs="tcp:196887:5"/> service▪ or shall doe any thing in execution or performance of this Ordinance, shall be therein protected and saved harmelesse by the power and authority of both the said Houses.</p>
+            <p>And lastly, it is ordained, That the said Committee for the Revenue, or any five of them, shall have power, and be here<g ref="char:EOLhyphen"/>by enabled to doe and execute any other act or acts, thing or things, they shall thinke fit for the better and more speedy collecting, leavying, advancing, and receiving of all and every the said revenues, debts, and summes of money before men<g ref="char:EOLhyphen"/>tioned.</p>
+            <p>Provided and be it further Ordained, That all and singu<g ref="char:EOLhyphen"/>lar such revenues, rents, issues, fees, profirs, and summes of money &amp; allowances whatsoever, as have heretofore beene and now ought to be paid and disposed unto, or for the maintenance of any Colledge or Hospitall (whose revenues, or any part thereof, have not been imployed for maintenance of the Warre against the Parliament) Grammer Schoole, or Schollers, or for, or towards the reparation of any Church, Chappell, High<g ref="char:EOLhyphen"/>way, Cawsey, Bridge, School-house, or other charitable use, which are chargeable upon, or ought to issue out of, or be paid for or in respect of any the Honours, Mannors, Lands, Tene<g ref="char:EOLhyphen"/>ments, or Hereditaments, revenues, or profits aforesaid, shall be and continue to be paid, disposed, and allowed of, as they were and have beene heretofore.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
